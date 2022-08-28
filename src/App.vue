@@ -43,10 +43,10 @@
             <v-divider></v-divider>
             <v-card-text>
               <p></p>
-              <p>You will have to perform 4 steps (2 optionnal) to make it work : </p>
+              <p>You will have to perform 4 steps (1 optionnal) to make it work : </p>
               <p>- Get your GFA insignia to have access to reserved channels</p>
               <p>- Join the discord app to be able to use commands -> Reach for <strong><a href='https://discord.com/channels/860545589640822804/958258506065133578'>#lendings</a></strong> channel -> Use command <strong>/register your-wallet-address</strong></p>
-              <p>- (Optionnal) Use the <strong>Pet authorization</strong> panel on this page to allow the bot to perform auto-petting actions on your gotchi(s)</p>
+              <p>- Use the <strong>Pet authorization</strong> panel on this page to allow the bot to perform auto-petting actions on your gotchi(s)</p>
               <p>- (Optionnal) Use the <strong>Lending authorization</strong> panel on this page to allow the bot to perform lendings actions on your gotchi(s) (listing, unlisting, claiming)</p>
               <p>You can review all available command by clicking on the button below</p>
             </v-card-text>
