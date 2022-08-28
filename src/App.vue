@@ -69,7 +69,7 @@
                 <v-card-text class="pb-0">
                   <v-card-title class="text-h5 mb-1">User Management</v-card-title>
                   <v-card-text class="text-left">
-                    <p><strong>/regiser-user</strong> : Register the user to be able to use commands</p>
+                    <p><strong>/register-user</strong> : Register the user to be able to use commands</p>
                     <p><strong>/delete-user</strong> : Unsubscribe from the gotchi manager</p>
                   </v-card-text>
                 </v-card-text>
